@@ -211,7 +211,7 @@ const styles = {
     marginRight: '8px',
   },
   phoneInput: {
-    width: 'calc(140% - 100px)', // Ajuste para garantir que o campo de telefone se alinhe com o prefixo fixo
+    width: 'calc(140% - 100px)', 
     padding: '12px',
     borderRadius: '4px',
     border: '1px solid #ccc',
